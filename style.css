@@ -1,0 +1,557 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+     scroll-behavior: smooth;
+     cursor: pointer;
+     color: white;
+   
+
+
+}
+#one{
+    width:100%;
+    height:60px;
+    background-color: whitesmoke;
+    margin: 0;
+    position: fixed;
+    color: black;
+
+
+}
+.p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: small;
+    font-weight: 540;
+    color: black;
+    
+}
+.two{
+   background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-APR-Promo-Hero-Mobile-v2.png);
+  height:510px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-repeat:no-repeat;
+ margin-top: -75px;
+ background-position: 0px;
+ 
+}
+.tds-icon{
+    margin-top: 60px;
+    height: 70px;
+    width: 130px;
+    margin-left: 50px;
+  
+   
+   
+}
+.nav li,a {
+    list-style-type: none;
+    text-decoration: none;
+    margin-top: 30px;
+
+    
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+   
+}
+.AB{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+   padding: 5px;
+ 
+}
+.sec{
+    
+    position: absolute;
+    left: 89%;
+  
+}
+
+
+
+.b{
+    width: 100%;
+    height:450px;
+    position: relative;
+    object-fit: cover;
+    margin-top: -30px;
+   
+}
+.o{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 60px;
+    font-style: bold;
+    font-weight: bolder;
+}
+.Order{
+    margin-left: 350px;
+    padding: 10px;
+    width:250px;
+    color: black;
+    margin-top: 20px;
+
+}
+.Order-1{
+    margin-left: 100px;
+    width:250px;
+    padding: 10px;
+    color: black;
+}
+
+.three{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-US-v2.png);
+    color: black;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position:center; 
+    background-size: 1261px;
+    width: 100%;
+    text-align: center;
+   
+}
+.MO{
+font-size: 50px;
+font-weight: bolder;
+padding-top: 60px;
+}
+.APR{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+    
+
+}
+.Lease{
+    font-weight: bold;
+}
+.od{
+width:70px;
+}
+.dd{
+    width:70px;
+}
+.BUT{
+    margin-top: 300px;
+    padding: 20px;
+    font-weight: lighter;
+}
+.ON{
+ width:250px;
+ padding: 10px;
+color: black;
+background-color:#3e6ae1;
+border-radius: 5px;
+border-color: transparent;
+}
+.DD{
+ width:250px;
+ padding: 10px;
+ color: black;
+ border-radius: 5px;
+ border-color: transparent;
+}
+.four{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-US.png);
+background-repeat: no-repeat;
+background-size: 1300px;
+height: 550px;
+background-position:center; 
+ width:100%;
+}
+.MU{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+
+}
+.HA{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+}
+.MM{
+    font-weight: bold;
+}
+.BUT-1{
+    margin-top: 300px;
+    padding: 20px;
+    font-weight: lighter;
+}
+.AA{
+    width:250px;
+ padding: 10px;
+color: black;
+background-color:#3e6ae1; 
+border-radius: 5px;
+border-color: transparent;
+}
+  .SA{
+    width:250px;
+ padding: 10px;
+ color: black; 
+ border-radius: 5px;
+ border-color: transparent;
+  } 
+  
+  .five{
+    background-image:url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-X-Desktop-US.png);
+    background-repeat: no-repeat;
+background-size: 1300px;
+height: 580px;
+background-position:center; 
+ width:100%;
+  }
+   
+   .F{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+
+   }
+   .W{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+   }
+   .A{
+    font-weight: bold;
+    text-decoration: underline;
+   }
+   .BUT-2{
+    margin-top: 300px;
+    padding: 20px;
+    font-weight: lighter;
+   }
+   .N{
+    width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1; 
+   border-radius: 5px;
+   border-color: transparent;
+   }
+   
+   .K{
+    width:250px;
+    padding: 10px;
+    color: black; 
+    border-radius: 5px;
+    border-color: transparent;
+   }
+   .six{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-US.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center; 
+     width:100%;
+      }
+   .S{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+   }
+   .E{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+   }
+   .G{
+    font-weight: bold;
+    text-decoration: underline;
+   }
+   .BUT-3{
+    margin-top: 300px;
+    padding: 20px;
+    font-weight: lighter;
+   }
+   .I{
+   width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1;
+   border-radius: 5px;
+   border-color: transparent; 
+   }
+   .J{
+    width:250px;
+    padding: 10px;
+    color: black; 
+    border-radius: 5px;
+    border-color: transparent;
+   }
+   .seven{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Cybertruck-Desktop-v3.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center; 
+     width:100%;
+     margin-top: -301px;
+      }
+      .BUT-4{
+        margin-top: 300px;
+        padding: 60px;
+        font-weight: lighter;
+        
+        
+       
+      }
+      .CBA{
+       width: 250px;
+       padding: 10px;
+      color: whitesmoke;
+      background-color:black ;
+     margin-left: 60px;
+      margin-top: 150px;
+      border-radius: 5px;
+      border-color: transparent;   
+      }
+      .DEF{
+       
+        width: 250px;
+        padding: 10px;
+        color: whitesmoke;
+        background-color:black ;
+        margin-top: 450px;
+        margin-left: 0px;
+        border-radius: 5px;
+        border-color: transparent; 
+      }
+.eight{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarPanels-01-Desktop);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center;
+     width:120%;
+     margin-top: 30px;
+     margin-left: -100px;      
+}
+.solar{ 
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+    font-size: 50px;
+   
+}
+.virtual{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+    text-decoration: underline;
+
+}
+.BUT-5{
+    margin-top: 350px;
+    padding: 20px;
+    font-weight: lighter; 
+}
+.FED{
+    width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1; 
+   border-radius: 5px;
+   border-color: transparent;
+}
+.GHI{
+    width:250px;
+    padding: 10px;
+    color: black; 
+    border-radius: 5px;
+    border-color: transparent;
+}
+.nine{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-SolarRoof-Desktop-US.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center; 
+     width:100%;   
+}
+.roof{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+    font-size: 50px;
+   
+}
+.energy{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 0px;
+}
+.BUT-6{
+    margin-top: 340px;
+    padding: 20px;
+    font-weight: lighter;   
+}
+.LM{
+    width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1; 
+   border-radius: 5px;
+   border-color: transparent;
+}
+.UM{
+    width:250px;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.ten{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Powerwall-Desktop-US.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center; 
+     width:100%;  
+}
+.NM{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+    font-size: 50px; 
+}
+.OP{
+    width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1; 
+   margin-top:400px;
+   border-radius: 5px;
+   border-color: transparent;
+}
+.CP{
+    width:250px;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.eleven{
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Accessories-Desktop-US.png);
+    background-repeat: no-repeat;
+    background-size: 1300px;
+    height: 580px;
+    background-position:center; 
+     width:100%; 
+}
+.acc{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 60px;
+    font-size: 50px;
+}
+.BUT-9{
+    margin-top: 240px;
+    padding: 20px;
+    font-weight: lighter; 
+}
+.now{
+    width:250px;
+    padding: 10px;
+   color: black;
+   background-color:#3e6ae1; 
+   border-radius: 5px;
+   border-color: transparent;
+   margin-top: 400px;
+}
+.parent{
+    position: relative;
+    
+}
+ .vedio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;   
+    height: 100vh;  
+    overflow: hidden;
+    margin-top:-51px;
+   
+    
+ }
+ .streched-vedio{
+    min-width: 100%;
+    min-height: 70%;
+    flex-shrink: 0;
+ }
+ .para{
+    position: absolute;
+    margin-left: 90px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -300px;
+    color: black;
+    
+
+    
+ }
+ .button-0{
+    position: absolute;
+    font-size: 15px;
+    left: 0px;
+    margin-left: 100px;
+    margin-top: -260px;
+    border-radius: 10px;
+    padding: 10px;
+    width:120px;
+    height: 40px;
+    border-color: transparent;
+    background-color: whitesmoke;
+    color: black;
+    
+ }
+ .footer{
+    margin-top: 173%;
+   
+   text-align: center;
+    font-size:12px;
+  
+    
+ }
+ .red{
+   color:rgb(121, 121, 121);
+ }
+ .black{
+    color:rgb(121, 121, 121);
+ }
+ .green{
+    color:rgb(121, 121, 121);
+ }
+ .yellow{
+    color:rgb(121, 121, 121);
+ }
+ .footer-section{
+      font-size: 12px;
+      color:rgb(121, 121, 121);
+      padding-inline: 10px;
+ }
+ .TES{
+    color:rgb(121, 121, 121); 
+    font-size:12px;
+    text-decoration: underline;
+ }
+    
+
+    
+
+
+
+
+
+
+
